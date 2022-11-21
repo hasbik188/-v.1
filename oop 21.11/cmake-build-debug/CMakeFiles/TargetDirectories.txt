@@ -1,0 +1,3 @@
+C:/Users/dj_st/Desktop/oop 21.11/cmake-build-debug/CMakeFiles/oop_21_11.dir
+C:/Users/dj_st/Desktop/oop 21.11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dj_st/Desktop/oop 21.11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
